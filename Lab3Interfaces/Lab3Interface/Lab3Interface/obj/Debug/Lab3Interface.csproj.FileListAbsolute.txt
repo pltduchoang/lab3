@@ -1,0 +1,8 @@
+C:\Users\KnightFoxGaming\source\repos\Lab3Interfaces\Lab3Interface\Lab3Interface\bin\Debug\Lab3Interface.exe.config
+C:\Users\KnightFoxGaming\source\repos\Lab3Interfaces\Lab3Interface\Lab3Interface\bin\Debug\Lab3Interface.exe
+C:\Users\KnightFoxGaming\source\repos\Lab3Interfaces\Lab3Interface\Lab3Interface\bin\Debug\Lab3Interface.pdb
+C:\Users\KnightFoxGaming\source\repos\Lab3Interfaces\Lab3Interface\Lab3Interface\obj\Debug\Lab3Interface.csproj.AssemblyReference.cache
+C:\Users\KnightFoxGaming\source\repos\Lab3Interfaces\Lab3Interface\Lab3Interface\obj\Debug\Lab3Interface.csproj.SuggestedBindingRedirects.cache
+C:\Users\KnightFoxGaming\source\repos\Lab3Interfaces\Lab3Interface\Lab3Interface\obj\Debug\Lab3Interface.csproj.CoreCompileInputs.cache
+C:\Users\KnightFoxGaming\source\repos\Lab3Interfaces\Lab3Interface\Lab3Interface\obj\Debug\Lab3Interface.exe
+C:\Users\KnightFoxGaming\source\repos\Lab3Interfaces\Lab3Interface\Lab3Interface\obj\Debug\Lab3Interface.pdb
